@@ -12,7 +12,7 @@ module.exports = {
   author: 'XieKKK',
 
   // open graph metadata (optional)
-  description: 'Example site description',
+  description: 'About',
   socialImageTitle: 'XieKKK',
   socialImageSubtitle: 'Hi! 👋',
 
